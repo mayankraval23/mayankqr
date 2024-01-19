@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mayankqr
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning b.tech
-- 💞️ I’m looking to collaborate on ethical hacking
-- 📫 How to reach me @mr_raval_official_111
+- 👀 I’m interested in Developing
+- 🌱 I’m currently Persuing my B.Tech
 
 
 
